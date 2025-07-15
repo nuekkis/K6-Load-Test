@@ -23,7 +23,7 @@ A simple project to run HTTP load tests using Go as a wrapper for k6. Configurat
 ### Project Structure
 
 ```
-loadtest-go-k6/
+K6-Load-Test/
 ├─ go.mod         # Go module file
 ├─ config.json    # Test configuration file
 ├─ main.go        # Go wrapper for k6
