@@ -4,6 +4,10 @@ A simple project to run HTTP load tests using Go as a wrapper for k6. Configurat
 
 ---
 
+# ⚠️ Warning: This project is a load testing software designed to measure the resilience of websites. We are not responsible if it is used outside of legal and ethical frameworks!
+
+---
+
 ### Features
 
 * Read test parameters (VUs, duration, target URL) from JSON config
