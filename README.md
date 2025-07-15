@@ -38,7 +38,7 @@ Edit `config.json` to set your test parameters:
 
 ```json
 {
-  "vus": 1000,           // Number of virtual users
+  "vus": 1000,         // Number of virtual users
   "duration": "60s",   // Total duration (e.g. "30s", "2m", "1h")
   "target_url": "https://example.com" // Endpoint to test
 }
