@@ -59,7 +59,7 @@ Edit `config.json` to set your test parameters:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/icelaterdc/K6-Load-Test.git
+   git clone https://github.com/nuekkis/K6-Load-Test.git
    cd K6-Load-Test
    ```
 2. Ensure Go modules are initialized:
